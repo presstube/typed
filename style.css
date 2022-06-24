@@ -1,0 +1,14 @@
+html, body {
+  color: #fff
+  margin-top: 0px;
+  margin-left: 0px;
+  background-color: black;
+}
+
+#lala {
+  font-family: monospace;
+  width: 81ch;
+  color: #fff;
+  /*inline-size: 80ch;*/
+  overflow-wrap: break-word;
+}
