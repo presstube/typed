@@ -9,7 +9,7 @@ html, body {
   font-family: monospace;
   width: 81ch;
   color: #fff;
-  font-size: 10px;
+  font-size: 4px;
   /*inline-size: 80ch;*/
   overflow-wrap: break-word;
 }
